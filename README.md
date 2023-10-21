@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student at ALX SE, and I'm still also an engineering student at SUST.<br>👯 I enjoy debugging especially C codes and C++.<br>🌱 I’m currently learning Python, and git.<br>💬 Ask me about anything C related, you can just recommend some useful programming books too!.<br>⚡  Reminder : You never get to there if you didn't ask yourself everyday why are you doing this?.
+🔭 I’m currently a student at ALX SE, and I'm still also an engineering student at SUST.<br>👯 I enjoy debugging especially C codes and C++.<br>🌱 I’m currently learning Python, and git.<br>💬 Ask me about anything C related, you can just recommend some useful programming books too!.<br>⚡  Reminder : You never get to there if you didn't ask yourself everyday, why are you doing this?.
 
 
 ## 🌐 Socials:

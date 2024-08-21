@@ -1,7 +1,7 @@
 ![](https://i.pinimg.com/originals/59/33/3d/59333d6f1b1f1b226ba59f35199db107.gif)
 
 # 💫 About Me:
-🔭 I’m currently a student at ALX SE, and I'm still also an engineering student at SUST.<br>👯 I enjoy debugging especially C codes and C++.<br>🌱 I’m currently learning about front-end languages, React, Node.js, data structures and algorithmes.<br>💬 Ask me about anything C related because this is where I am good at, you can just recommend some useful programming books too!.<br>⚡  Reminder : You never get to there if you didn't ask yourself everyday, why are you doing this?.
+🔭 I’m currently a student at ALX SE, and I'm still also an engineering student at SUST.<br>👯 I enjoy debugging especially C codes and C++.<br>🌱 I’m currently learning about front-end languages, React, Node.js, Flutter, data structures and algorithmes.<br>💬 Ask me about anything C related because this is where I am good at, you can just recommend some useful programming books too!.<br>⚡  Reminder : You never get to there if you didn't ask yourself everyday, why are you doing this?.
 
 
 <h3 align="left">Connect with me:</h3>

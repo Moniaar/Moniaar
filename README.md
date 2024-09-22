@@ -10,7 +10,7 @@
 <a href="https://twitter.com/moniaar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moniaar_" height="30" width="40" /></a>
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" /><img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="160" />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,c,vim,flask,firebase,css,python,linux,html,mysql,nodejs,nginx,arduino,,bash,cpp,wordpress,vercel,figma&theme=light" />

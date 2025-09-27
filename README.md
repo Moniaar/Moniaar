@@ -13,7 +13,7 @@
 # 💻 Tech Stack: <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,c,vim,flask,firebase,css,python,linux,html,mysql,nodejs,nginx,arduino,,bash,cpp,wordpress,vercel,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,js,c,vim,react,vuejs,flask,firebase,css,python,linux,html,mysql,nodejs,arduino,,bash,cpp,wordpress,figma&theme=light" />
   </a>
 </p>
 
